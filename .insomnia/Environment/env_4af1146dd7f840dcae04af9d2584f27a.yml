@@ -1,0 +1,14 @@
+_id: env_4af1146dd7f840dcae04af9d2584f27a
+type: Environment
+parentId: env_c7fc22c4ce4487a5b51297e3ca4767c39403fa6b
+modified: 1683368783260
+created: 1683368420883
+name: production
+data:
+  domain: http://localhost:3000
+dataPropertyOrder:
+  "&":
+    - domain
+color: null
+isPrivate: false
+metaSortKey: 1683368420883

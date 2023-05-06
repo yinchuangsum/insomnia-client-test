@@ -1,0 +1,14 @@
+_id: env_47acfecc5b694f4c8f26ab6997007e83
+type: Environment
+parentId: env_c7fc22c4ce4487a5b51297e3ca4767c39403fa6b
+modified: 1683368780689
+created: 1683368403717
+name: staging
+data:
+  domain: http://localhost:3000
+dataPropertyOrder:
+  "&":
+    - domain
+color: null
+isPrivate: false
+metaSortKey: 1683368403718
